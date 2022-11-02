@@ -21,7 +21,7 @@ timezone: Europe/London
 
 title: DevOps Blog                          # the main title
 
-tagline: Everything DevOps, Cloud and Automation   # it will display as the sub-title
+tagline: Everything DevOps, Cloud, Automation and more!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Read our latest thoughts on all things DevOps, Cloud and Agile
