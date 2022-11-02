@@ -21,13 +21,13 @@ timezone:
 
 title: Chirpy                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Everything DevOps, Cloud and Automation   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Read our latest thoughts on all things DevOps, Cloud and Agile
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://devopsblogs.github.io'
 
 github:
   username: github_username             # change to your github username
@@ -43,7 +43,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/mafarag       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://github.com/mafarag/devopsblog.github.io/blob/main/devops.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -164,7 +164,7 @@ defaults:
       swcache: true
   - scope:
       path: assets/js/dist
-    values:
+    values:   
       swcache: true
 
 sass:
