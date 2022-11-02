@@ -32,24 +32,6 @@ These teams use practices to automate processes that historically have been manu
 * Improved Collabortions
 * security
 
-
-```typescript
-console.log('hello world')!;
-```
-
-```yml
-name: 'push-remote'
-
-on: 
-  push:
-    branches: 
-        - master
-    paths-ignore:
-        - .gitignore
-        - README.md
-        - LICENSE_NAME
-```
-
 ## Photos
 
 ![DevOps lifecycle](https://software.af.mil/wp-content/uploads/2019/08/devops-loop.svg)
