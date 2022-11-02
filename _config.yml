@@ -81,8 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nsight-inc.com%2Frobotic-process-automation%2F&psig=AOvVaw1LntzV4cFbvgI11UDz-_GY&ust=1667483634487000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPDM8d_Sj_sCFQAAAAAdAAAAABAI
-
+avatar: devops.png
 # boolean type, the global switch for ToC in posts.
 toc: true
 
