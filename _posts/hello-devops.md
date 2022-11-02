@@ -1,8 +1,8 @@
 ---
-title: Hello DevOps
-date: 2022-11-01 17:00:00 -500
-categories: [DevOps, Automation]
-tags: [devops,aws,azure,gcp,circleci,github-actions,jenkins,terraform,pulumi]
+layout: post
+title: "What is DevOps"
+date: 2022-11-02 15:00:00 -0000
+categories: DevOps Continuous-Integration Cloud
 ---
 
 # Welcome
