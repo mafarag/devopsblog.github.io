@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/mafarag/devopsblog.github.io/blob/main/devops.png
+avatar: https://raw.githubusercontent.com/DXHeroes/knowledge-base-content/master/files/devops.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
