@@ -2,7 +2,8 @@
 layout: post
 title: "What is DevOps"
 date: 2022-11-02 15:00:00 -0000
-categories: DevOps Continuous-Integration Cloud
+categories: DevOps Automation Cloud
+tags: [DevOps, Automation, Cloud]
 ---
 
 # Welcome
