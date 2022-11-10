@@ -15,12 +15,18 @@ However, even with RDS's more hands-off approach of DB managment there are times
 This article explains how to set this up and get RDS working.
 
 
-# Requirements
+# Example setup.
 
-- Access to an AWS Account
+For this article, we are going to have one VPC with two RDS Aurora MySQL Clusters.  This is a very simple setup and very likely not representative of an environment you are likely to replicate. However, this document will concentrate on the core functionailty which is the master slave setup.  This setup is a fairly simple one and quite straightforward to expand to more complex setups which span multiple vpcs and accounts or even on prem.
 
-# Set-Up
+These are the core components:
 
-For this example we are going to have one VPC with two RDS Clusters.  This might not be the setup you will be setting up since it is a fairly simople one. However, this document will concentrate on the core functionailty which is the master slave setup.  This setup is fairly simple to expand to more complex setups with multiple vpcs and accounts.
+- AWS VPC network
+- 1 x Master (Source) Database
+- 1 x Slave (Destination) Database
 
-### Create your Master RDS Server
+![pond underliner](../aurora-mysql-replication-between-clusters.png)
+
+# Setting Up
+
+## Setup the
