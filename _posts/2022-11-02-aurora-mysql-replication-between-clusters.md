@@ -25,7 +25,7 @@ These are the core components:
 - 1 x Master (Source) Database
 - 1 x Slave (Destination) Database
 
-![pond underliner](../aurora-mysql-replication-between-clusters.png)
+![replication](../aurora-mysql-replication-between-clusters.png)
 
 # Setting Up
 
